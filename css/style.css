@@ -69,6 +69,7 @@ body{
 	float: left;
 	width: 40px;
 	margin-top: 5px;
+    border-radius: 60%;
 }
 .profile p{
 	color: white;
